@@ -1,14 +1,7 @@
 ### Olá, meu nome é João, sou técnico em informática, professor de música e aprendiz de programador.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaogami&repo=github-readme-stats&theme=buefy" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogami)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogami&count_private=true&theme=github_dark)
 
-Here are some ideas to get you started:
-
-- 🔭 Eu estou trabalhando em desafios da Oracle Next Education.
+- 🔭 Eu estou trabalhando em desafios da Oracle Next Education pelos próximos meses.
 - 🌱 Estou estudando JS, HTML e CSS.
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
