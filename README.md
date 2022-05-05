@@ -19,6 +19,7 @@ Professor de Música pela Universidade do Estado de Minas Gerais.
    - Criptografia e descriptografia de texto
    - Em breve
    - Em breve
+ 
 **🌱 Estou estudando JS, HTML e CSS**
 
 ## Redes Sociais
