@@ -8,8 +8,7 @@ Professor de Música pela Universidade do Estado de Minas Gerais.
           
 
 
-**🔭 Eu estou buscando me desenvolver utilizando desafios pessoais e profissionais:**
- - Três desafios da Oracle Next Education pelos próximos meses.
+**🔭 Estou buscando me desenvolver utilizando desafios pessoais e profissionais:**
  - Criptografia e descriptografia de texto
  - Em breve
  - Em breve
