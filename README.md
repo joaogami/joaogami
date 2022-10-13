@@ -1,4 +1,4 @@
-### Hello world, my name is João Gabriel Miranda !
+### Hello world
 ____
 Técnico em informática e programador pelo SENAI.
 
